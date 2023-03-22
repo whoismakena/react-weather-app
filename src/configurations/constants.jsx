@@ -1,0 +1,5 @@
+const CONSTANTS = {
+  API_KEY: "4b3b980c1c2b4235a70125353232003",
+};
+
+export default CONSTANTS;
