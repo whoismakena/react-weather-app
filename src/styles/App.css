@@ -9,7 +9,7 @@
 }
 
 .Weather-App-Container {
-  width: 100%;
+  padding: 3em;
   min-height: 100vh;
   background-size: cover;
   display: flex;
@@ -29,8 +29,8 @@
   display: flex;
   align-items: center;
   align-self: flex-end;
-  margin: 5em 3em 4em 0;
   border-radius: 8px;
+  margin: 20px 0 45px 0;
 }
 
 .SearchContainer input {
@@ -52,7 +52,6 @@
   color: #fefefe;
 }
 
-
 /* Weather Content */
 .Weather-App-Content {
   align-self: center;
@@ -69,7 +68,7 @@
   backdrop-filter: blur(8.3px);
   -webkit-backdrop-filter: blur(3.3px);
   border: 1px solid rgba(255, 255, 255, 0.3);
-  color: #ffffff;
+  color: #1e1e1e;
 }
 
 .Weather-App-Content span {
@@ -139,7 +138,6 @@
   width: 90px;
 }
 
-
 /* Weather Info */
 .WeatherInfo {
   display: flex;
@@ -170,4 +168,16 @@
   font-size: 13px;
   margin-top: 6px;
   font-weight: bold;
+}
+
+@media only screen and (max-width: 400px) {
+  .Weather-App-Container {
+    padding: 40px;
+  }
+
+  .Weather-App-Content {
+    width: auto;
+    margin-bottom: 40px;
+  }
+
 }
