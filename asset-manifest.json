@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/react-weather-app/static/css/main.6d5351a6.css",
+    "main.css": "/react-weather-app/static/css/main.cafad3d7.css",
     "main.js": "/react-weather-app/static/js/main.2e753352.js",
     "static/js/27.fab5f2dd.chunk.js": "/react-weather-app/static/js/27.fab5f2dd.chunk.js",
     "static/media/sleet-day.jpeg": "/react-weather-app/static/media/sleet-day.dd9aefbbd62bdabfa5b0.jpeg",
@@ -39,7 +39,7 @@
     "index.html": "/react-weather-app/index.html"
   },
   "entrypoints": [
-    "static/css/main.6d5351a6.css",
+    "static/css/main.cafad3d7.css",
     "static/js/main.2e753352.js"
   ]
 }
