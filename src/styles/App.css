@@ -170,7 +170,7 @@
   font-weight: bold;
 }
 
-@media only screen and (max-width: 400px) {
+@media only screen and (max-width: 780px) {
   .Weather-App-Container {
     padding: 40px;
   }
